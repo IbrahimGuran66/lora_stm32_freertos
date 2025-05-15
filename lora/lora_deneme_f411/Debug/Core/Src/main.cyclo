@@ -1,0 +1,16 @@
+../Core/Src/main.c:95:5:main	1
+../Core/Src/main.c:183:6:SystemClock_Config	3
+../Core/Src/main.c:229:13:MX_TIM10_Init	4
+../Core/Src/main.c:274:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:305:13:MX_DMA_Init	1
+../Core/Src/main.c:326:13:MX_GPIO_Init	1
+../Core/Src/main.c:377:13:led_toggle_task	1
+../Core/Src/main.c:397:13:e22_handle_task	1
+../Core/Src/main.c:412:13:e22_transmission_task	1
+../Core/Src/main.c:432:13:main_e22_transceiverMode	1
+../Core/Src/main.c:437:13:main_e22_configurationMode	1
+../Core/Src/main.c:442:6:HAL_UART_TxCpltCallback	1
+../Core/Src/main.c:453:6:HAL_UARTEx_RxEventCallback	1
+../Core/Src/main.c:463:13:main_lora_packet_receive	2
+../Core/Src/main.c:486:6:StartDefaultTask	1
+../Core/Src/main.c:501:6:Error_Handler	1
