@@ -6,9 +6,9 @@
  */
 NOT: Bu projede sadece iki LoRa modülü kullanılmış, daha fazla lora modülü haberleşmesi henüz denenmemiştir.
 
- *KLASÖR İÇİNDEKİ DOSYALARI NEREDE KULLANIRIM? NE İŞE YAARLAR?
+ *KLASÖR İÇİNDEKİ DOSYALARI NEREDE KULLANIRIM? NE İŞE YARARLAR?
 
- * lora_conf.PNG : LoRa modüllerinin konfigürasyon ayarları. değiştirme ayarının tıpatıp aynısını çalıştırır.
+ * lora_conf.PNG : LoRa modüllerinin konfigürasyon ayarları. Değiştirme ayarının tıpatıp aynısını çalıştırır.
  * RF_Setting(E22-E9X(SL))+V3.0.zip : LoRa konfigürasyon ayarı yapılan uygulama. EBYTE'in ülkedeki güncel sürümünü bulabilirsiniz.
  * lora_deneme_f103 : Projede kullanılan NUCLEO F103 kartına yüklenen kod. Yapmak istiyorsanız projeyi baştan kurmanızı tavsiye ederim.
  * lora_deneme_f411 : Projede kullanılan NUCLEO F411 kartına yüklenen kod.
